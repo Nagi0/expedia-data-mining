@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "expedia"
+version = "0.1.0"
+description = ""
+authors = ["Nagi0 <brunolefonseca13@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+python-dotenv = "^1.0.1"
+polars = "^1.19.0"
+pandas = "^2.2.3"
+kagglehub = "^0.3.6"
+scikit-learn = "^1.6.0"
+xgboost = "^2.1.3"
+ipykernel = "^6.29.5"
+matplotlib = "^3.10.0"
+seaborn = "^0.13.2"
+tqdm = "^4.67.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

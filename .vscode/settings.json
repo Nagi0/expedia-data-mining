@@ -1,0 +1,29 @@
+{
+    "cSpell.enabledFileTypes": {
+        "toml": false,
+        "properties": false
+    },
+    "cSpell.words": [
+        "annot",
+        "cmap",
+        "coolwarm",
+        "countplot",
+        "dataframe",
+        "dropna",
+        "Ferretti",
+        "figsize",
+        "isnull",
+        "Kaggle",
+        "logloss",
+        "matplotlib",
+        "Namen",
+        "pred",
+        "pyplot",
+        "seaborn",
+        "sklearn",
+        "srch",
+        "xgboost",
+        "xlabel",
+        "ylabel"
+    ]
+}
